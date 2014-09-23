@@ -34,6 +34,8 @@ ensures integrity and order, the ontology of the smart environment will be alway
 state. Then all the information contained in this ontology can be used for other further usages such as activity recognition,
 information enrichment, query and search, etc.
 
+The Web UIs for consuming this service can be found in the repository `rme-web`.
+
 The author is not authorized to share the source code of the other components from GreenerBuildings project for running 
 a complete smart environment. Please contact the author for further research and questions.
 
